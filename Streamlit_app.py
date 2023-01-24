@@ -1,4 +1,2 @@
 import streamlit
-streamlit.title('my parents new healthy diner')
-
-breakfast menu
+streamlit.title('breakfast menu')
